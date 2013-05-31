@@ -15,3 +15,5 @@ for (i=1; i<=8; i++){
 }
 document.write(totalweight);
 
+//adding comment
+
